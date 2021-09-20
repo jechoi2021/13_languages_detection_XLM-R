@@ -10,3 +10,5 @@ For classification purpose [XLMRobertaForSequenceClassfication](https://huggingf
 [XL-WiC dataset](https://aclanthology.org/2020.emnlp-main.584/) is used for fine-tuning, while it has been pre-processed in order to get a pair (language, text) only.
 
 For more details, please refer to [here](https://github.com/jechoi2021/13_languages_detection_XLM-R/releases/tag/13_languages_detection_XLM-R_v1.0)
+
+You can have a look at the fine-tuning process via Google Notebook [here](https://github.com/jechoi2021/13_languages_detection_XLM-R/releases/tag/13_languages_detection_XLM-R_v1.0)
