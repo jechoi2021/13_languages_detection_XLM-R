@@ -11,4 +11,4 @@ For classification purpose [XLMRobertaForSequenceClassfication](https://huggingf
 
 For more details, please refer to [here](https://github.com/jechoi2021/13_languages_detection_XLM-R/releases/tag/13_languages_detection_XLM-R_v1.0)
 
-You can have a look at the fine-tuning process via Google Notebook [here](https://github.com/jechoi2021/13_languages_detection_XLM-R/releases/tag/13_languages_detection_XLM-R_v1.0)
+You can have a look at the fine-tuning process via Google Notebook [here](https://colab.research.google.com/drive/1aPttXXpp3LSyRuRzSXFu2_AgE8zWRCD1?usp=sharing)
